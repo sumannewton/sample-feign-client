@@ -12,7 +12,7 @@
         <feign.version>8.13.0</feign.version>
         <lombok.version>1.16.6</lombok.version>
         <metrics-healthchecks.version>3.0.2</metrics-healthchecks.version>
-        <jackson-databind.version>2.10.0.pr1</jackson-databind.version>
+        <jackson-databind.version>2.12.6.1</jackson-databind.version>
     </properties>
 
     <dependencies>
